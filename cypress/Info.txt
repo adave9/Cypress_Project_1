@@ -1,0 +1,1 @@
+This is just a demo project to test features of VS Code vs Git vs AI features.
